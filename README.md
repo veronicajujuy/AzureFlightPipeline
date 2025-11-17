@@ -132,7 +132,7 @@ Esto permite realizar estudios posteriores sobre:
 **Verónica Valdez**  
 📍 Argentina  
 💼 Desarrolladora Backend & Data Engineering  
-📧 _contacto_: [tu correo o LinkedIn]
+📧 _contacto_: [LinkedIn](https://www.linkedin.com/in/vmvaldez/)
 
 ---
 
