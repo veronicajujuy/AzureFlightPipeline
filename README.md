@@ -50,8 +50,7 @@ La solución implementa el enfoque **Medallion Architecture**, dividiendo el flu
 │
 ├── docs/
 │ ├── pipeline_diagram.png
-│ ├── Informe_Final_DataEngineering_Vuelos.pdf
-│ └── data_model.png
+│ └── Informe_Final_DataEngineering_Vuelos.pdf
 │
 ├── data-samples/
 │ ├── feriados_2024.json
